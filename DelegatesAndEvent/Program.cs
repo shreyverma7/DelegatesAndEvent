@@ -3,6 +3,7 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        ArrayDelegates.SingleCastDelegates();
+        // ArrayDelegates.SingleCastDelegates();
+        ArrayDelegates.MultiCastDelegates();
     }
 }
